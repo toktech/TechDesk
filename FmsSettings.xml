@@ -12,25 +12,25 @@
     <station name="10.24.56.195" ipaddress="10.24.56.195" used="false" />
     <station name="10.24.73.195" ipaddress="10.24.73.195" used="false" />
     <station name="10.24.75.67" ipaddress="10.24.75.67" used="false" />
-    <station name="Emo Shercock L1050" ipaddress="10.67.32.131" used="false" />
+    <station name="Emo Shercock L1050 MCPA0001" ipaddress="10.67.32.131" used="false" />
     <station name="10.67.32.163" ipaddress="10.67.32.163" used="false" />
     <station name="10.67.32.3" ipaddress="10.67.32.3" used="false" />
     <station name="10.67.32.35" ipaddress="10.67.32.35" used="false" />
     <station name="10.67.33.163" ipaddress="10.67.33.163" used="false" />
-    <station name="Dun Na Ri IR4758 L1192" ipaddress="10.67.34.131" used="false" />
-    <station name="10.67.34.163" ipaddress="10.67.34.163" used="false" />
+    <station name="Dun Na Ri IR4758 L1192 IRPRIV918" ipaddress="10.67.34.131" used="false" />
+    <station name="Top Murroe Limerick 1045" ipaddress="10.67.34.163" used="false" />
     <station name="Great Gas Bagnelstown L2003 IR4557" ipaddress="10.67.34.3" used="false" />
-    <station name="10.67.34.35" ipaddress="10.67.34.35" used="false" />
-    <station name="10.67.34.67" ipaddress="10.67.34.67" used="false" />
+    <station name="Crolly Filling Station L1190 IR137324" ipaddress="10.67.34.35" used="false" />
+    <station name="Morgan Fuels Bridgend L1191 IR137298" ipaddress="10.67.34.67" used="false" />
     <station name="Great Gas Pollerton L2004" ipaddress="10.67.34.99" used="false" />
     <station name="10.69.155.227" ipaddress="10.69.155.227" used="false" />
     <station name="10.71.2.99" ipaddress="10.71.2.99" used="false" />
-    <station name="10.71.32.35" ipaddress="10.71.32.35" used="false" />
-    <station name="10.71.33.131" ipaddress="10.71.33.131" used="false" />
-    <station name="10.71.33.195" ipaddress="10.71.33.195" used="false" />
-    <station name="10.71.33.227" ipaddress="10.71.33.227" used="false" />
-    <station name="10.71.33.35" ipaddress="10.71.33.35" used="false" />
-    <station name="10.71.34.131" ipaddress="10.71.34.131" used="false" />
+    <station name="Statoil Carrick on Shannon 9762" ipaddress="10.71.32.35" used="false" />
+    <station name="Statoil Prior Park 9774 IR4526" ipaddress="10.71.33.131" used="false" />
+    <station name="Statoil Newmarket Hannons 1428" ipaddress="10.71.33.195" used="false" />
+    <station name="Statoil Gorey Home Heating 9775" ipaddress="10.71.33.227" used="false" />
+    <station name="Statoil Daly's Service Station IR9552" ipaddress="10.71.33.35" used="false" />
+    <station name="Topaz Daly's Service Station 1130 IR138025" ipaddress="10.71.34.131" used="false" />
     <station name="10.79.160.67" ipaddress="10.79.160.67" used="false" />
     <station name="10.79.168.35" ipaddress="10.79.168.35" used="false" />
     <station name="10.79.169.131" ipaddress="10.79.169.131" used="false" />
@@ -38,17 +38,17 @@
     <station name="10.79.189.67" ipaddress="10.79.189.67" used="false" />
     <station name="10.79.190.227" ipaddress="10.79.190.227" used="false" />
     <station name="Classic Service ST IRPRIV910 L0046" ipaddress="10.79.191.35" used="false" />
-    <station name="10.81.152.3" ipaddress="10.81.152.3" used="false" />
-    <station name="10.81.153.131" ipaddress="10.81.153.131" used="false" />
-    <station name="10.81.153.163" ipaddress="10.81.153.163" used="false" />
-    <station name="10.81.153.195" ipaddress="10.81.153.195" used="false" />
-    <station name="10.81.153.227" ipaddress="10.81.153.227" used="false" />
-    <station name="10.81.153.3" ipaddress="10.81.153.3" used="false" />
-    <station name="10.81.154.131" ipaddress="10.81.154.131" used="false" />
-    <station name="10.81.155.163" ipaddress="10.81.155.163" used="false" />
+    <station name="Texaco Greenshank A5014 PRIV555" ipaddress="10.81.152.3" used="false" />
+    <station name="Texaco Kanes Autos Ltd A1025 IR134551" ipaddress="10.81.153.131" used="false" />
+    <station name="Texaco Robinstown A1027 IRTEX025" ipaddress="10.81.153.163" used="false" />
+    <station name="Texaco Junction 14 Truck A5113 IRTEXOIL10" ipaddress="10.81.153.195" used="false" />
+    <station name="Texaco Junction 14 Mayfield A5119 IR135115" ipaddress="10.81.153.227" used="false" />
+    <station name="Texaco Canning's Sligo A1017" ipaddress="10.81.153.3" used="false" />
+    <station name="Texaco Fairgrove A1131 IRTEX005" ipaddress="10.81.154.131" used="false" />
+    <station name="Texaco Midleton A5117 IRTX27" ipaddress="10.81.155.163" used="false" />
     <station name="Solo Fuels Leemount IRPRIV591 A1007" ipaddress="10.81.155.195" used="false" />
-    <station name="10.81.155.67" ipaddress="10.81.155.67" used="false" />
-    <station name="10.81.155.99" ipaddress="10.81.155.99" used="false" />
+    <station name="Texaco Kiltullagh Plaza Truck A1132 IR137001" ipaddress="10.81.155.67" used="false" />
+    <station name="Texaco Olympic Limerick A1012" ipaddress="10.81.155.99" used="false" />
     <station name="10.81.156.131" ipaddress="10.81.156.131" used="false" />
     <station name="Great Gas Dublin A" ipaddress="10.81.156.67" used="false" />
     <station name="10.81.156.99" ipaddress="10.81.156.99" used="false" />
