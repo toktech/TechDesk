@@ -13,10 +13,10 @@
     <station name="10.24.73.195" ipaddress="10.24.73.195" used="false" />
     <station name="10.24.75.67" ipaddress="10.24.75.67" used="false" />
     <station name="Emo Shercock L1050 MCPA0001" ipaddress="10.67.32.131" used="false" />
-    <station name="10.67.32.163" ipaddress="10.67.32.163" used="false" />
-    <station name="10.67.32.3" ipaddress="10.67.32.3" used="false" />
-    <station name="10.67.32.35" ipaddress="10.67.32.35" used="false" />
-    <station name="10.67.33.163" ipaddress="10.67.33.163" used="false" />
+    <station name="Ardfinnan S/Stn L1184 IR137114" ipaddress="10.67.32.163" used="false" />
+    <station name="Sweeney's S/Stn Newport L1047 MAX195" ipaddress="10.67.32.3" used="false" />
+    <station name="Top Bluebell 61108 IR136918" ipaddress="10.67.32.35" used="false" />
+    <station name="Mulrooney's S/Stn L1188 IRPRIV118" ipaddress="10.67.33.163" used="false" />
     <station name="Dun Na Ri IR4758 L1192 IRPRIV918" ipaddress="10.67.34.131" used="false" />
     <station name="Top Murroe Limerick 1045" ipaddress="10.67.34.163" used="false" />
     <station name="Great Gas Bagnelstown L2003 IR4557" ipaddress="10.67.34.3" used="false" />
@@ -49,15 +49,15 @@
     <station name="Solo Fuels Leemount IRPRIV591 A1007" ipaddress="10.81.155.195" used="false" />
     <station name="Texaco Kiltullagh Plaza Truck A1132 IR137001" ipaddress="10.81.155.67" used="false" />
     <station name="Texaco Olympic Limerick A1012" ipaddress="10.81.155.99" used="false" />
-    <station name="10.81.156.131" ipaddress="10.81.156.131" used="false" />
-    <station name="Great Gas Dublin A" ipaddress="10.81.156.67" used="false" />
-    <station name="10.81.156.99" ipaddress="10.81.156.99" used="false" />
-    <station name="10.81.157.131" ipaddress="10.81.157.131" used="false" />
-    <station name="10.81.158.35" ipaddress="10.81.158.35" used="false" />
+    <station name="Murphy's S/Stn Wexford L1029" ipaddress="10.81.156.131" used="false" />
+    <station name="Great Gas Dublin Airport L1053 IR4509" ipaddress="10.81.156.67" used="false" />
+    <station name="Great Gas The Brink L1130 IR132626" ipaddress="10.81.156.99" used="false" />
+    <station name="Lee Auto Center L1036 51068" ipaddress="10.81.157.131" used="false" />
+    <station name="CSC - Daily S/Stn L1064 IRCS001" ipaddress="10.81.158.35" used="false" />
     <station name="10.81.160.131" ipaddress="10.81.160.131" used="false" />
     <station name="10.81.160.227" ipaddress="10.81.160.227" used="false" />
-    <station name="10.81.160.3" ipaddress="10.81.160.3" used="false" />
-    <station name="10.81.160.67" ipaddress="10.81.160.67" used="false" />
+    <station name="Maxol Ballymount 81052 MAX189" ipaddress="10.81.160.3" used="false" />
+    <station name="Maxol McGonagles Muff 81001 IRMAX-04" ipaddress="10.81.160.67" used="false" />
     <station name="10.81.160.99" ipaddress="10.81.160.99" used="false" />
     <station name="10.81.161.163" ipaddress="10.81.161.163" used="false" />
     <station name="10.81.161.195" ipaddress="10.81.161.195" used="false" />
@@ -67,107 +67,107 @@
     <station name="10.81.162.195" ipaddress="10.81.162.195" used="false" />
     <station name="10.81.162.227" ipaddress="10.81.162.227" used="false" />
     <station name="10.81.162.99" ipaddress="10.81.162.99" used="false" />
-    <station name="10.81.163.131" ipaddress="10.81.163.131" used="false" />
+    <station name="Maxol Garryowen 81003 IRMAX289" ipaddress="10.81.163.131" used="false" />
     <station name="10.81.163.3" ipaddress="10.81.163.3" used="false" />
     <station name="10.81.163.35" ipaddress="10.81.163.35" used="false" />
     <station name="10.81.163.67" ipaddress="10.81.163.67" used="false" />
-    <station name="10.81.164.131" ipaddress="10.81.164.131" used="false" />
-    <station name="10.81.164.163" ipaddress="10.81.164.163" used="false" />
-    <station name="10.81.164.195" ipaddress="10.81.164.195" used="false" />
-    <station name="10.81.164.35" ipaddress="10.81.164.35" used="false" />
-    <station name="10.81.165.131" ipaddress="10.81.165.131" used="false" />
-    <station name="10.81.165.163" ipaddress="10.81.165.163" used="false" />
-    <station name="10.81.165.195" ipaddress="10.81.165.195" used="false" />
-    <station name="10.81.165.227" ipaddress="10.81.165.227" used="false" />
-    <station name="10.81.165.3" ipaddress="10.81.165.3" used="false" />
-    <station name="10.81.165.67" ipaddress="10.81.165.67" used="false" />
-    <station name="10.81.165.99" ipaddress="10.81.165.99" used="false" />
-    <station name="10.81.166.3" ipaddress="10.81.166.3" used="false" />
-    <station name="10.81.166.99" ipaddress="10.81.166.99" used="false" />
-    <station name="10.81.167.131" ipaddress="10.81.167.131" used="false" />
-    <station name="10.81.167.163" ipaddress="10.81.167.163" used="false" />
-    <station name="10.81.167.227" ipaddress="10.81.167.227" used="false" />
-    <station name="10.81.167.35" ipaddress="10.81.167.35" used="false" />
-    <station name="10.81.167.67" ipaddress="10.81.167.67" used="false" />
-    <station name="10.81.168.131" ipaddress="10.81.168.131" used="false" />
-    <station name="10.81.168.3" ipaddress="10.81.168.3" used="false" />
-    <station name="10.81.168.35" ipaddress="10.81.168.35" used="false" />
-    <station name="10.81.168.67" ipaddress="10.81.168.67" used="false" />
-    <station name="10.81.168.99" ipaddress="10.81.168.99" used="false" />
-    <station name="10.81.169.163" ipaddress="10.81.169.163" used="false" />
-    <station name="10.81.169.195" ipaddress="10.81.169.195" used="false" />
-    <station name="10.81.169.227" ipaddress="10.81.169.227" used="false" />
-    <station name="10.81.169.67" ipaddress="10.81.169.67" used="false" />
-    <station name="10.81.170.195" ipaddress="10.81.170.195" used="false" />
-    <station name="10.81.170.227" ipaddress="10.81.170.227" used="false" />
-    <station name="10.81.170.67" ipaddress="10.81.170.67" used="false" />
-    <station name="10.81.170.99" ipaddress="10.81.170.99" used="true" user="-GOCO" />
-    <station name="10.81.172.163" ipaddress="10.81.172.163" used="false" />
-    <station name="10.81.172.3" ipaddress="10.81.172.3" used="false" />
-    <station name="10.81.173.131" ipaddress="10.81.173.131" used="false" />
+    <station name="Maxol Kilkenny 81014 IRMAX082" ipaddress="10.81.164.131" used="false" />
+    <station name="Maxol Riverside 81015 IRMAX287" ipaddress="10.81.164.163" used="false" />
+    <station name="Maxol Ballincollig 81016 IRMAX296" ipaddress="10.81.164.195" used="false" />
+    <station name="Maxol Carrigaline 81009 IRMAX034" ipaddress="10.81.164.35" used="false" />
+    <station name="Maxol Maynooth 81023 IRMAX154" ipaddress="10.81.165.131" used="false" />
+    <station name="Maxol Kingsmeadow 81025 IRMAX070" ipaddress="10.81.165.163" used="false" />
+    <station name="Maxol Tivoli Co.Cork 81027 IRMAX356" ipaddress="10.81.165.195" used="false" />
+    <station name="Maxol Mespil Road 81029 IRMAX152" ipaddress="10.81.165.227" used="false" />
+    <station name="Maxol Navan Road 81018 IRMAX345" ipaddress="10.81.165.3" used="false" />
+    <station name="Maxol Clairecastle 81020 IRMAX087" ipaddress="10.81.165.67" used="false" />
+    <station name="Maxol Ballinrea 81021 IRMAX151" ipaddress="10.81.165.99" used="false" />
+    <station name="Maxol Wilton Co.Cork 81030 IRMAX273" ipaddress="10.81.166.3" used="false" />
+    <station name="Maxol Wexford 81034 MAX073" ipaddress="10.81.166.99" used="false" />
+    <station name="Maxol Celbridge 81051 MAX018" ipaddress="10.81.167.131" used="false" />
+    <station name="Maxol Naas 81055 MAX057" ipaddress="10.81.167.163" used="false" />
+    <station name="Maxol Limerick 81057 MAX321" ipaddress="10.81.167.227" used="false" />
+    <station name="Maxol Flower Hill 81045 MAX211" ipaddress="10.81.167.35" used="false" />
+    <station name="Maxol Walkinstown 81047 MAX316" ipaddress="10.81.167.67" used="false" />
+    <station name="Maxol Highland Lodge 81075 MAX035" ipaddress="10.81.168.131" used="false" />
+    <station name="Maxol Sallins Road 81060" ipaddress="10.81.168.3" used="false" />
+    <station name="Maxol Drogheda Millmount 81065 MAX427" ipaddress="10.81.168.35" used="false" />
+    <station name="Maxol Enniscorthy 81068 MAX077" ipaddress="10.81.168.67" used="false" />
+    <station name="Maxol Lucan Auto Point 81069 MAX279" ipaddress="10.81.168.99" used="false" />
+    <station name="Maxol Ballinteer 81092 MAX006" ipaddress="10.81.169.163" used="false" />
+    <station name="Maxol Baldoyle 81094 MAX024" ipaddress="10.81.169.195" used="false" />
+    <station name="Maxol Whitehall 81096 MAX314" ipaddress="10.81.169.227" used="false" />
+    <station name="Maxol Portarlington 81085 MAX153" ipaddress="10.81.169.67" used="false" />
+    <station name="Maxol Clonakilty 81101" ipaddress="10.81.170.195" used="false" />
+    <station name="Maxol Bantry 81102 MAX385" ipaddress="10.81.170.227" used="false" />
+    <station name="Maxol Newbridge 81067 IRMAX229" ipaddress="10.81.170.67" used="false" />
+    <station name="Maxol Adamstown 81097" ipaddress="10.81.170.99" used="true" user="-GOCO" />
+    <station name="Maxol Cavan Cullies S/Stn 81108 IRMAX477" ipaddress="10.81.172.163" used="false" />
+    <station name="Maxol Dunmore Road 81106 IR132613" ipaddress="10.81.172.3" used="false" />
+    <station name="Maxol Blackpool Cork 81079 MAX288" ipaddress="10.81.173.131" used="false" />
     <station name="10.81.174.131" ipaddress="10.81.174.131" used="false" />
-    <station name="10.81.174.163" ipaddress="10.81.174.163" used="false" />
-    <station name="10.81.174.195" ipaddress="10.81.174.195" used="false" />
-    <station name="10.81.175.131" ipaddress="10.81.175.131" used="false" />
-    <station name="10.81.175.163" ipaddress="10.81.175.163" used="false" />
-    <station name="10.81.175.195" ipaddress="10.81.175.195" used="false" />
+    <station name="Maxol Castletroy 82904 IR500-10" ipaddress="10.81.174.163" used="false" />
+    <station name="Maxol Artane 81110 IRMAX031" ipaddress="10.81.174.195" used="false" />
+    <station name="Maxol Boherbue 81112 IRPRIV11" ipaddress="10.81.175.131" used="false" />
+    <station name="Maxol Mulhuddart 81113 IR50720" ipaddress="10.81.175.163" used="false" />
+    <station name="Maxol Donabate 81114 IRPRIV16" ipaddress="10.81.175.195" used="false" />
     <station name="10.81.176.131" ipaddress="10.81.176.131" used="false" />
     <station name="O'Mahonys Spa Glen IR137325 81120" ipaddress="10.81.176.163" used="false" />
-    <station name="10.81.176.35" ipaddress="10.81.176.35" used="false" />
-    <station name="10.81.176.67" ipaddress="10.81.176.67" used="false" />
-    <station name="10.82.212.163" ipaddress="10.82.212.163" used="false" />
-    <station name="10.82.212.3" ipaddress="10.82.212.3" used="false" />
-    <station name="10.82.212.99" ipaddress="10.82.212.99" used="false" />
-    <station name="10.82.213.131" ipaddress="10.82.213.131" used="false" />
-    <station name="10.82.213.3" ipaddress="10.82.213.3" used="false" />
-    <station name="10.82.213.35" ipaddress="10.82.213.35" used="false" />
-    <station name="10.82.214.131" ipaddress="10.82.214.131" used="false" />
-    <station name="10.82.214.163" ipaddress="10.82.214.163" used="false" />
-    <station name="10.82.214.227" ipaddress="10.82.214.227" used="false" />
-    <station name="10.82.214.3" ipaddress="10.82.214.3" used="false" />
-    <station name="10.82.214.35" ipaddress="10.82.214.35" used="false" />
-    <station name="10.85.220.99" ipaddress="10.85.220.99" used="false" />
+    <station name="Maxol Greenhills Road  81117 IRTZ9846" ipaddress="10.81.176.35" used="false" />
+    <station name="Maxol Mace N7 81118 IRTZ9827" ipaddress="10.81.176.67" used="false" />
+    <station name="Top Dundalk M1 J10 South 61093" ipaddress="10.82.212.163" used="false" />
+    <station name="Top Kinsale Road Cork 61088" ipaddress="10.82.212.3" used="false" />
+    <station name="Top Lusk M1 J5 South 61091" ipaddress="10.82.212.99" used="false" />
+    <station name="Top Kilkenny 61025" ipaddress="10.82.213.131" used="false" />
+    <station name="Top Donore Road Drogheda 61010 TED-10" ipaddress="10.82.213.3" used="false" />
+    <station name="Top Lakeland Fuels Mullingar 61026 TED-55" ipaddress="10.82.213.35" used="false" />
+    <station name="Top Ovens Jim Walsh 61012" ipaddress="10.82.214.131" used="false" />
+    <station name="Top Mayfield 61050 IR54570" ipaddress="10.82.214.163" used="false" />
+    <station name="Top Park S/Stn Waterford 61051 IRPRIV332" ipaddress="10.82.214.227" used="false" />
+    <station name="Top Parkside S/Stn Donegal 61013" ipaddress="10.82.214.3" used="false" />
+    <station name="Top Kilbride 61107 IRPRIV146" ipaddress="10.82.214.35" used="false" />
+    <station name="Statoil Bradys Gowna 19927 IRESS307" ipaddress="10.85.220.99" used="false" />
     <station name="Campus Ormond Oil C1003 PRIV151" ipaddress="10.85.229.35" used="false" />
-    <station name="10.87.224.99" ipaddress="10.87.224.99" used="false" />
-    <station name="10.87.225.3" ipaddress="10.87.225.3" used="false" />
-    <station name="10.87.226.195" ipaddress="10.87.226.195" used="false" />
-    <station name="10.87.227.195" ipaddress="10.87.227.195" used="false" />
-    <station name="10.87.227.3" ipaddress="10.87.227.3" used="false" />
-    <station name="10.87.227.35" ipaddress="10.87.227.35" used="false" />
-    <station name="10.87.228.67" ipaddress="10.87.228.67" used="false" />
-    <station name="10.87.228.99" ipaddress="10.87.228.99" used="false" />
-    <station name="10.87.229.131" ipaddress="10.87.229.131" used="false" />
-    <station name="10.87.229.163" ipaddress="10.87.229.163" used="false" />
-    <station name="10.87.229.195" ipaddress="10.87.229.195" used="false" />
-    <station name="10.87.229.3" ipaddress="10.87.229.3" used="false" />
-    <station name="10.87.230.163" ipaddress="10.87.230.163" used="false" />
-    <station name="10.87.230.227" ipaddress="10.87.230.227" used="false" />
-    <station name="10.87.230.3" ipaddress="10.87.230.3" used="false" />
-    <station name="10.87.230.35" ipaddress="10.87.230.35" used="false" />
-    <station name="10.87.230.67" ipaddress="10.87.230.67" used="false" />
-    <station name="10.87.230.99" ipaddress="10.87.230.99" used="false" />
-    <station name="10.87.231.195" ipaddress="10.87.231.195" used="false" />
-    <station name="10.87.232.3" ipaddress="10.87.232.3" used="false" />
-    <station name="10.87.232.35" ipaddress="10.87.232.35" used="false" />
-    <station name="10.87.232.67" ipaddress="10.87.232.67" used="false" />
-    <station name="10.87.233.163" ipaddress="10.87.233.163" used="false" />
-    <station name="10.87.233.3" ipaddress="10.87.233.3" used="false" />
-    <station name="10.87.234.131" ipaddress="10.87.234.131" used="false" />
-    <station name="10.87.234.99" ipaddress="10.87.234.99" used="false" />
-    <station name="10.87.235.99" ipaddress="10.87.235.99" used="false" />
-    <station name="10.87.236.163" ipaddress="10.87.236.163" used="false" />
-    <station name="10.87.236.195" ipaddress="10.87.236.195" used="false" />
-    <station name="10.87.236.227" ipaddress="10.87.236.227" used="false" />
-    <station name="10.87.236.35" ipaddress="10.87.236.35" used="false" />
-    <station name="10.87.237.227" ipaddress="10.87.237.227" used="false" />
-    <station name="10.87.237.3" ipaddress="10.87.237.3" used="false" />
-    <station name="10.87.237.35" ipaddress="10.87.237.35" used="false" />
-    <station name="10.87.238.131" ipaddress="10.87.238.131" used="false" />
-    <station name="10.87.238.195" ipaddress="10.87.238.195" used="false" />
-    <station name="10.87.238.227" ipaddress="10.87.238.227" used="false" />
-    <station name="10.87.238.3" ipaddress="10.87.238.3" used="false" />
-    <station name="10.87.238.99" ipaddress="10.87.238.99" used="false" />
-    <station name="10.88.0.163" ipaddress="10.88.0.163" used="false" />
+    <station name="Campus Dungarvan C1001 PRIV88" ipaddress="10.87.224.99" used="false" />
+    <station name="Ballylooby L1089" ipaddress="10.87.225.3" used="false" />
+    <station name="The Express Stop Mitchelstown" ipaddress="10.87.226.195" used="false" />
+    <station name="Farrells S/Stn Tramore L1102 IRESS358" ipaddress="10.87.227.195" used="false" />
+    <station name="Great Gas Turvey L1097" ipaddress="10.87.227.3" used="false" />
+    <station name="Great Gas Rathdrum L1098 IR132274" ipaddress="10.87.227.35" used="false" />
+    <station name="Great Gas N2 Ashbourne L1106 IR132535" ipaddress="10.87.228.67" used="false" />
+    <station name="Great Gas N2 Ashbourne L1107" ipaddress="10.87.228.99" used="false" />
+    <station name="Stewarts Oil Boyle L1117 IR133516" ipaddress="10.87.229.131" used="false" />
+    <station name="JJ Hurley & Sons L1118 " ipaddress="10.87.229.163" used="false" />
+    <station name="M & N McCarthy Macroom L1119" ipaddress="10.87.229.195" used="false" />
+    <station name="Emo Rathcoole L1114 IR132740" ipaddress="10.87.229.3" used="false" />
+    <station name="Hannons S/Stn Dundalk L1017 PRIV14" ipaddress="10.87.230.163" used="false" />
+    <station name="Conway Oils Kildare 61027 IRCONWAY" ipaddress="10.87.230.227" used="false" />
+    <station name="Inver Fairgreen L1031" ipaddress="10.87.230.3" used="false" />
+    <station name="Tara Oil Merlin Park L1120 IR133627" ipaddress="10.87.230.35" used="false" />
+    <station name="Top Castlemaine 61015 PRIV203" ipaddress="10.87.230.67" used="false" />
+    <station name="CoCo Fuels Tullamore L1121 IR133880" ipaddress="10.87.230.99" used="false" />
+    <station name="Great Gas Lee Tunnel L1128 IRTEXOIL8" ipaddress="10.87.231.195" used="false" />
+    <station name="Tara Oil Limerick L1132 IRTARA OIL" ipaddress="10.87.232.3" used="false" />
+    <station name="Top Lambes Oil 61102 IR134055" ipaddress="10.87.232.35" used="false" />
+    <station name="Corrigan S/Stn Moyne L1133 IRPRIV36" ipaddress="10.87.232.67" used="false" />
+    <station name="Inver Rathkeale L1144 IRPRIV417" ipaddress="10.87.233.163" used="false" />
+    <station name="Great Gas Ballyconnell L1041 IRDOO103" ipaddress="10.87.233.3" used="false" />
+    <station name="Mackle's S/Stn Dungarvan L1138 IR134422" ipaddress="10.87.234.131" used="false" />
+    <station name="Morgan Fuels Carrickcarnon L1146 IR134994" ipaddress="10.87.234.99" used="false" />
+    <station name="Stewarts Oil Longford L1152 IR135375" ipaddress="10.87.235.99" used="false" />
+    <station name="Top Batterstown S/Stn 61031 TED-57" ipaddress="10.87.236.163" used="false" />
+    <station name="Top Glafer S/Stn Cloghan 61008 Top-08" ipaddress="10.87.236.195" used="false" />
+    <station name="Hennessey S/Stn Kilmeaden L1162 IR13358" ipaddress="10.87.236.227" used="false" />
+    <station name="Top Listowel Kellys 61083 068-40220" ipaddress="10.87.236.35" used="false" />
+    <station name="Top O'Donovan S/Stn Limerick 61023 062-47133" ipaddress="10.87.237.227" used="false" />
+    <station name="Top Holy Cross 61029 IRTED-31" ipaddress="10.87.237.3" used="false" />
+    <station name="Inver Southville L1167 IR136053" ipaddress="10.87.237.35" used="false" />
+    <station name="Top Ardee Hoey's S/Stn 61105 IR136700" ipaddress="10.87.238.131" used="false" />
+    <station name="Inver Hurlers Cross L1175 IR130788" ipaddress="10.87.238.195" used="false" />
+    <station name="McCoys Oakview Laragh L1176 IR0404-45475" ipaddress="10.87.238.227" used="false" />
+    <station name="Inver Johnstown S/Stn L1172 IRESS354" ipaddress="10.87.238.3" used="false" />
+    <station name="Top The Trading Post Headford 61103 IRPRIV79" ipaddress="10.87.238.99" used="false" />
+    <station name="Texaco H2 Group Allenwood 81061 PRIV200" ipaddress="10.88.0.163" used="false" />
     <station name="192.168.1.1" ipaddress="192.168.1.1" used="false" />
     <station name="A5 service PRIV960 uk-L8044" ipaddress="10.79.163.131" used="false" />
     <station name="AAG Promotions L1097 IR131950" ipaddress="10.87.227.3" used="false" />
@@ -183,7 +183,7 @@
     <station name="Belurgan PRIV14 L1017" ipaddress="10.87.230.163" used="false" />
     <station name="Billy Cahalanes PRIV22 11016" ipaddress="10.85.221.227" used="false" />
     <station name="Boherbue IRPRIV11 81112" ipaddress="10.81.175.131" used="false" />
-    <station name="Bourke &amp; Coyne IR132299 L1151" ipaddress="10.87.235.3" used="false" />
+    <station name="Bourke & Coyne IR132299 L1151" ipaddress="10.87.235.3" used="false" />
     <station name="Bradys Esso ESS307 19927" ipaddress="10.85.220.99" used="false" />
     <station name="Cahir Abbey Oil L1074 PRIV385" ipaddress="10.81.159.131" used="false" />
     <station name="Campus Barndarrig IR4575 C1114" ipaddress="10.85.228.99" used="false" />
@@ -548,8 +548,8 @@
     <station name="Lowey PRIV9007 L1103" ipaddress="10.87.227.227" used="false" />
     <station name="Lunneys ESS110 19912" ipaddress="10.85.221.99" used="false" />
     <station name="LW Surphlis IR135720 uk-L0035" ipaddress="10.79.183.35" used="false" />
-    <station name="M &amp; N McCarthy IR9931 L1119 " ipaddress="10.87.229.195" used="false" />
-    <station name="M&amp;A Finlay IR50824 20824" ipaddress="10.87.239.67" used="false" />
+    <station name="M & N McCarthy IR9931 L1119 " ipaddress="10.87.229.195" used="false" />
+    <station name="M & A Finlay IR50824 20824" ipaddress="10.87.239.67" used="false" />
     <station name="M50 oil IR134676 L1147" ipaddress="10.87.234.163" used="false" />
     <station name="Manor Forecourt IRPRIV152 C1113" ipaddress="10.85.228.67" used="false" />
     <station name="Maxol Adamstown IR50398 81097" ipaddress="10.81.170.99" used="false" />
@@ -689,7 +689,7 @@
     <station name="McKibbins IRPRIV403 L0029" ipaddress="10.79.179.163" used="false" />
     <station name="Meades Inver Rathkeale IRPRIV119 L1144" ipaddress="10.87.233.163" used="false" />
     <station name="Meekin Fuels IR136149 uk-L0039" ipaddress="10.79.184.131" used="false" />
-    <station name="Michael &amp; Moreen Maher IR4683 L1083" ipaddress="10.87.225.35" used="false" />
+    <station name="Michael & Moreen Maher IR4683 L1083" ipaddress="10.87.225.35" used="false" />
     <station name="Midland Aviation IR134317 L1134" ipaddress="10.87.232.99" used="false" />
     <station name="Mills Oil IR134140 UK-L8061" ipaddress="10.79.175.195" used="false" />
     <station name="Molloy Fuels IR133819 UK - L0015" ipaddress="10.79.172.163" used="false" />
@@ -838,23 +838,23 @@
     <station name="Whytes IRESS448 59766" ipaddress="10.71.32.131" used="false" />
     <station name="Woodquay IR136111 L1159" ipaddress="10.87.236.67" used="false" />
     <station name="Great Gas Limerick L2005 IR138097" ipaddress="10.67.34.195" used="false" />
-    <station name="10.87.234.67" ipaddress="10.87.234.67" used="false" />
-    <station name="10.81.175.67" ipaddress="10.81.175.67" used="false" />
-    <station name="10.81.158.195" ipaddress="10.81.158.195" used="false" />
-    <station name="10.81.155.3" ipaddress="10.81.155.3" used="false" />
+    <station name="Morgan Fuels Dundalk (Manned) L1069 IRPRIV560" ipaddress="10.87.234.67" used="false" />
+    <station name="Maxol Dundalk S/Stn 81111 IR135700" ipaddress="10.81.175.67" used="false" />
+    <station name="Campus Greenmount S/Stn L1067 IRPRIV958" ipaddress="10.81.158.195" used="false" />
+    <station name="Texaco Walsh's S/Stn A5005 PRIV76" ipaddress="10.81.155.3" used="false" />
     <station name="10.24.97.67" ipaddress="10.24.97.67" used="false" />
     <station name="10.24.31.3" ipaddress="10.24.31.3" used="false" />
     <station name="10.24.35.195" ipaddress="10.24.35.195" used="false" />
     <station name="10.24.172.195" ipaddress="10.24.172.195" used="false" />
     <station name="10.24.83.67" ipaddress="10.24.83.67" used="false" />
     <station name="Ahernes SS IRPRIV335 19929" ipaddress="10.85.222.195" used="false" />
-    <station name="10.87.224.131" ipaddress="10.87.224.131" used="false" />
-    <station name="10.87.229.99" ipaddress="10.87.229.99" used="false" />
-    <station name="10.85.222.131" ipaddress="10.85.222.131" used="false" />
-    <station name="10.81.169.99" ipaddress="10.81.169.99" used="false" />
+    <station name="Top McKenna Muff 61016 PRIV163" ipaddress="10.87.224.131" used="false" />
+    <station name="Great Gas Daly's IRMAX050 L1116" ipaddress="10.87.229.99" used="false" />
+    <station name="Esso Skibbereen 11007 ESS313" ipaddress="10.85.222.131" used="false" />
+    <station name="Maxol Drumlusk 81090 MAX275" ipaddress="10.81.169.99" used="false" />
     <station name="10.79.160.227" ipaddress="10.79.160.227" used="false" />
-    <station name="10.87.234.227" ipaddress="10.87.234.227" used="false" />
-    <station name="10.87.239.67" ipaddress="10.87.239.67" used="false" />
+    <station name="Naas Oil Prosperous L1149 IRMAX375" ipaddress="10.87.234.227" used="false" />
+    <station name="Shell Monasterevan Finlays 20824" ipaddress="10.87.239.67" used="false" />
     <station name="Solo Fuels Coagh L0048 R138093" ipaddress="10.79.169.227" used="false" />
     <station name="10.81.174.62" ipaddress="10.81.174.62" used="false" />
     <station name="E Loane Glenwood L8054 IR132263" ipaddress="10.79.169.99" used="false" />
@@ -862,19 +862,19 @@
     <station name="Roe Oils Shercock L1194 IR136936" ipaddress="10.67.35.3" used="false" />
     <station name="Campus Carrickarnan 1117 IR136865" ipaddress="10.85.229.3" used="false" />
     <station name="10.25.53.67" ipaddress="10.25.53.67" used="false" />
-    <station name="10.81.166.227" ipaddress="10.81.166.227" used="false" />
+    <station name="Maxol Churchview Tuam 81038 MAX120" ipaddress="10.81.166.227" used="false" />
     <station name="10.24.71.131" ipaddress="10.24.71.131" used="false" />
-    <station name="10.87.224.67" ipaddress="10.87.224.67" used="false" />
+    <station name="Shell Nissan Fermoy 25019 50190" ipaddress="10.87.224.67" used="false" />
     <station name="10.76.225.163" ipaddress="10.76.225.163" used="false" />
-    <station name="10.82.213.67" ipaddress="10.82.213.67" used="false" />
-    <station name="10.81.158.67" ipaddress="10.81.158.67" used="false" />
+    <station name="Top Old Airport Road 61085" ipaddress="10.82.213.67" used="false" />
+    <station name="Corrigan Bagnelstown L1063 IRPRIV756" ipaddress="10.81.158.67" used="false" />
     <station name="10.25.82.195" ipaddress="10.25.82.195" used="false" />
-    <station name="10.67.34.227" ipaddress="10.67.34.227" used="false" />
-    <station name="10.87.232.163" ipaddress="10.87.232.163" used="false" />
+    <station name="O'Donoghue's Barraduff L1193 IR51961" ipaddress="10.67.34.227" used="false" />
+    <station name="Mone Fuels Castleblaney L1136 IR134060" ipaddress="10.87.232.163" used="false" />
     <station name="10.25.40.3" ipaddress="10.25.40.3" used="false" />
     <station name="10.25.56.3" ipaddress="10.25.56.3" used="false" />
-    <station name="10.87.235.163" ipaddress="10.87.235.163" used="false" />
-    <station name="10.81.176.227" ipaddress="10.81.176.227" used="false" />
+    <station name="Hegartys S/Stn Killarney L1156 IRMAX253" ipaddress="10.87.235.163" used="false" />
+    <station name="Maxol Turvey 81121 IR131950" ipaddress="10.81.176.227" used="false" />
     <station name="10.25.90.131" ipaddress="10.25.90.131" used="false" />
     <station name="10.76.230.131" ipaddress="10.76.230.131" used="false" user="-0000007941" />
     <station name="10.76.223.195" ipaddress="10.76.223.195" used="false" />
@@ -883,32 +883,32 @@
     <station name="10.76.220.3" ipaddress="10.76.220.3" used="false" />
     <station name="10.25.9.131" ipaddress="10.25.9.131" used="false" />
     <station name="10.24.0.67" ipaddress="10.24.0.67" used="false" />
-    <station name="10.81.154.35" ipaddress="10.81.154.35" used="false" />
+    <station name="Top Kanes S/Stn Clonard A1029 IR135220" ipaddress="10.81.154.35" used="false" />
     <station name="10.25.35.67" ipaddress="10.25.35.67" used="false" />
     <station name="O'Reillys Topaz L9767 IR4622" ipaddress="10.67.35.99" used="false" />
-    <station name="10.87.231.131" ipaddress="10.87.231.131" used="false" />
+    <station name="Downeys S/Stn Portlaoise L1127 IR0502-71200" ipaddress="10.87.231.131" used="false" />
     <station name="10.25.37.3" ipaddress="10.25.37.3" used="false" />
     <station name="TJENSVOLL NO Esso 11281 " ipaddress="10.25.27.195" used="false" />
     <station name="Jaren NO Esso 11979 " ipaddress="10.25.43.3" used="false" />
     <station name="Great Gas Belfast Airport L0047" ipaddress="10.79.169.131" used="false" />
-    <station name="10.87.231.67" ipaddress="10.87.231.67" used="false" />
+    <station name="Great Gas Daly's IRMAX050 L1116" ipaddress="10.87.231.67" used="false" />
     <station name="Daly's Cross 81070 IRPRIV615" ipaddress="10.81.177.3" used="false" />
-    <station name="10.85.228.227" ipaddress="10.85.228.227" used="false" />
+    <station name="Campus Kinsella's S/Stn C9754" ipaddress="10.85.228.227" used="false" />
     <station name="Nicholls Oil Eglinton L0033 IR132629" ipaddress="10.79.183.3" used="false" />
     <station name="10.25.92.195" ipaddress="10.25.92.195" used="false" />
-    <station name="10.81.177.3" ipaddress="10.81.177.3" used="false" />
+    <station name="Daly's Cross S/Stn 81070 IRPRIV615" ipaddress="10.81.177.3" used="false" />
     <station name="10.69.156.163" ipaddress="10.69.156.163" used="false" />
     <station name="10.24.36.195" ipaddress="10.24.36.195" used="false" />
     <station name="10.24.167.3" ipaddress="10.24.167.3" used="false" />
     <station name="Great Gas Portlaoise" ipaddress="10.67.33.227" used="false" />
-    <station name="10.82.215.195" ipaddress="10.82.215.195" used="false" />
-    <station name="10.81.156.35" ipaddress="10.81.156.35" used="false" />
-    <station name="10.87.237.195" ipaddress="10.87.237.195" used="false" />
-    <station name="10.87.238.67" ipaddress="10.87.238.67" used="false" />
+    <station name="Top Roscommon 61056 IRTED-29" ipaddress="10.82.215.195" used="false" />
+    <station name="Statoil Clonmel Oil S/Stn 59763 IRPRIV413" ipaddress="10.81.156.35" used="false" />
+    <station name="Smart Pump Longford L1165 IR136531" ipaddress="10.87.237.195" used="false" />
+    <station name="Top Bandon 61047 TED-51" ipaddress="10.87.238.67" used="false" />
     <station name="10.76.230.35" ipaddress="10.76.230.35" used="false" />
     <station name="10.87.224.163" ipaddress="10.87.224.163" used="false" />
     <station name="Ultima Carnew IR133554 L1195" ipaddress="10.67.35.35" used="false" />
-    <station name="10.87.238.35" ipaddress="10.87.238.35" used="false" />
+    <station name="JH McLoughlin L1173 IRPRIV541" ipaddress="10.87.238.35" used="false" />
     <station name="10.24.50.67" ipaddress="10.24.50.67" used="false" />
     <station name="10.24.22.131" ipaddress="10.24.22.131" used="false" />
     <station name="10.24.4.67" ipaddress="10.24.4.67" used="false" />
@@ -916,35 +916,35 @@
     <station name="10.25.91.131" ipaddress="10.25.91.131" used="false" />
     <station name="10.25.74.3" ipaddress="10.25.74.3" used="false" />
     <station name="10.76.229.3" ipaddress="10.76.229.3" used="false" />
-    <station name="10.87.228.227" ipaddress="10.87.228.227" used="false" />
+    <station name="Top Hinch S/Stn Mountmellick 61099" ipaddress="10.87.228.227" used="false" />
     <station name="10.24.178.195" ipaddress="10.24.178.195" used="false" />
     <station name="10.24.1.195" ipaddress="10.24.1.195" used="false" />
     <station name="10.24.178.131" ipaddress="10.24.178.131" used="false" />
     <station name="10.25.28.67" ipaddress="10.25.28.67" used="false" />
-    <station name="10.81.154.3" ipaddress="10.81.154.3" used="false" />
+    <station name="Texaco Motorpoint Waterford A1028 IRTEX048" ipaddress="10.81.154.3" used="false" />
     <station name="10.25.78.67" ipaddress="10.25.78.67" used="false" />
-    <station name="10.85.222.35" ipaddress="10.85.222.35" used="false" />
+    <station name="Esso Hayestown 11064 IR134549" ipaddress="10.85.222.35" used="false" />
     <station name="10.25.8.195" ipaddress="10.25.8.195" used="false" />
-    <station name="10.81.170.3" ipaddress="10.81.170.3" used="false" />
+    <station name="Maxol Tymon North 81063" ipaddress="10.81.170.3" used="false" />
     <station name="10.24.13.3" ipaddress="10.24.13.3" used="false" />
     <station name="10.24.78.3" ipaddress="10.24.78.3" used="false" />
     <station name="10.79.166.131" ipaddress="10.79.166.131" used="false" />
-    <station name="10.87.238.163" ipaddress="10.87.238.163" used="false" />
+    <station name="Nicholl Oil GO S/Stn Killea L1174 IRPRIV961" ipaddress="10.87.238.163" used="false" />
     <station name="10.24.179.67" ipaddress="10.24.179.67" used="false" />
     <station name="Fresh Food Centre L0049 IR138062" ipaddress="10.79.171.99" used="false" />
     <station name="10.79.171.99" ipaddress="10.79.171.99" used="false" />
     <station name="TOP FEOHANAGH 61060 IR136217" ipaddress="10.87.225.131" used="false" />
-    <station name="10.82.214.195" ipaddress="10.82.214.195" used="false" />
+    <station name="Top Horans Tralee 61053 IRPRIV909" ipaddress="10.82.214.195" used="false" />
     <station name="10.24.179.131" ipaddress="10.24.179.131" used="false" user="-0000007941" />
-    <station name="10.82.212.227" ipaddress="10.82.212.227" used="false" />
-    <station name="10.67.35.227" ipaddress="10.67.35.227" used="false" />
+    <station name="Top M4 J9 Enfield East 61095" ipaddress="10.82.212.227" used="false" />
+    <station name="Glen Fuel Services Kiltiernan L1198" ipaddress="10.67.35.227" used="false" />
     <station name="10.24.179.3" ipaddress="10.24.179.3" used="false" />
-    <station name="10.71.32.163" ipaddress="10.71.32.163" used="false" />
-    <station name="10.67.35.131" ipaddress="10.67.35.131" used="false" />
+    <station name="Statoil Fitzpatricks Kilmihil 59767" ipaddress="10.71.32.163" used="false" />
+    <station name="Great Gas Letterkenny L2006 IR132252" ipaddress="10.67.35.131" used="false" />
     <station name="10.25.82.3" ipaddress="10.25.82.3" used="false" />
-    <station name="10.87.235.227" ipaddress="10.87.235.227" used="false" />
+    <station name="Great Gas Ballymount Truck L1155 IR135316" ipaddress="10.87.235.227" used="false" />
     <station name="10.25.62.67" ipaddress="10.25.62.67" used="false" />
-    <station name="10.71.34.67" ipaddress="10.71.34.67" used="false" />
+    <station name="Statoil Junction 20 Ravensdale 59776 IR136768" ipaddress="10.71.34.67" used="false" />
   </stations>
   <Users>
     <user name="-GOCO" pass="rKbMqBBohWexCivv+12xOw==" />
