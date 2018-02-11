@@ -31,12 +31,12 @@
     <station name="Statoil Gorey Home Heating 9775" ipaddress="10.71.33.227" used="false" />
     <station name="Statoil Daly's Service Station IR9552" ipaddress="10.71.33.35" used="false" />
     <station name="Topaz Daly's Service Station 1130 IR138025" ipaddress="10.71.34.131" used="false" />
-    <station name="10.79.160.67" ipaddress="10.79.160.67" used="false" />
+    <station name="Toner Oil Colraine L8060 IR134007" ipaddress="10.79.160.67" used="false" />
     <station name="10.79.168.35" ipaddress="10.79.168.35" used="false" />
-    <station name="10.79.169.131" ipaddress="10.79.169.131" used="false" />
-    <station name="10.79.182.35" ipaddress="10.79.182.35" used="false" />
-    <station name="10.79.189.67" ipaddress="10.79.189.67" used="false" />
-    <station name="10.79.190.227" ipaddress="10.79.190.227" used="false" />
+    <station name="Belfast Int Airport L0047 IR137180" ipaddress="10.79.169.131" used="false" />
+    <station name="Clandeboye S/Stn Bangor L0032 IR135605" ipaddress="10.79.182.35" used="false" />
+    <station name="Junction One S/Stn L0042 IRPRIV251" ipaddress="10.79.189.67" used="false" />
+    <station name="Fullans Rasharkin L0045 IR136909" ipaddress="10.79.190.227" used="false" />
     <station name="Classic Service ST IRPRIV910 L0046" ipaddress="10.79.191.35" used="false" />
     <station name="Texaco Greenshank A5014 PRIV555" ipaddress="10.81.152.3" used="false" />
     <station name="Texaco Kanes Autos Ltd A1025 IR134551" ipaddress="10.81.153.131" used="false" />
@@ -54,23 +54,23 @@
     <station name="Great Gas The Brink L1130 IR132626" ipaddress="10.81.156.99" used="false" />
     <station name="Lee Auto Center L1036 51068" ipaddress="10.81.157.131" used="false" />
     <station name="CSC - Daily S/Stn L1064 IRCS001" ipaddress="10.81.158.35" used="false" />
-    <station name="10.81.160.131" ipaddress="10.81.160.131" used="false" />
-    <station name="10.81.160.227" ipaddress="10.81.160.227" used="false" />
+    <station name="Maxol Mallusk 81080" ipaddress="10.81.160.131" used="false" />
+    <station name="Maxol Townparks Retail 81002 MAX406" ipaddress="10.81.160.227" used="false" />
     <station name="Maxol Ballymount 81052 MAX189" ipaddress="10.81.160.3" used="false" />
     <station name="Maxol McGonagles Muff 81001 IRMAX-04" ipaddress="10.81.160.67" used="false" />
-    <station name="10.81.160.99" ipaddress="10.81.160.99" used="false" />
-    <station name="10.81.161.163" ipaddress="10.81.161.163" used="false" />
-    <station name="10.81.161.195" ipaddress="10.81.161.195" used="false" />
-    <station name="10.81.161.227" ipaddress="10.81.161.227" used="false" />
-    <station name="10.81.161.67" ipaddress="10.81.161.67" used="false" />
-    <station name="10.81.162.163" ipaddress="10.81.162.163" used="false" />
-    <station name="10.81.162.195" ipaddress="10.81.162.195" used="false" />
-    <station name="10.81.162.227" ipaddress="10.81.162.227" used="false" />
-    <station name="10.81.162.99" ipaddress="10.81.162.99" used="false" />
+    <station name="Maxol FuelNet Ballymena 81079 61079" ipaddress="10.81.160.99" used="false" />
+    <station name="Maxol Bangor 81008 Max398" ipaddress="10.81.161.163" used="false" />
+    <station name="Maxol Twinburn S/Stn 81009 MAX393" ipaddress="10.81.161.195" used="false" />
+    <station name="Maxol Dunmurry 81010 MAX408" ipaddress="10.81.161.227" used="false" />
+    <station name="Maxol Lisburn 81005 Max395" ipaddress="10.81.161.67" used="false" />
+    <station name="Maxol Fort William 81017 MAX465" ipaddress="10.81.162.163" used="false" />
+    <station name="Maxol Downpatrick 81073 MAX471" ipaddress="10.81.162.195" used="false" />
+    <station name="Maxol Braid River Ballymena 81074 MAX464" ipaddress="10.81.162.227" used="false" />
+    <station name="Maxol Edenderry S/Stn 81014 MAX397" ipaddress="10.81.162.99" used="false" />
     <station name="Maxol Garryowen 81003 IRMAX289" ipaddress="10.81.163.131" used="false" />
-    <station name="10.81.163.3" ipaddress="10.81.163.3" used="false" />
-    <station name="10.81.163.35" ipaddress="10.81.163.35" used="false" />
-    <station name="10.81.163.67" ipaddress="10.81.163.67" used="false" />
+    <station name="Maxol Scarva Road 81075 MAX416" ipaddress="10.81.163.3" used="false" />
+    <station name="Maxol Saintfield 81076 MAX410" ipaddress="10.81.163.35" used="false" />
+    <station name="Maxol Newtownabbey Whitehouse 81077 MAX396" ipaddress="10.81.163.67" used="false" />
     <station name="Maxol Kilkenny 81014 IRMAX082" ipaddress="10.81.164.131" used="false" />
     <station name="Maxol Riverside 81015 IRMAX287" ipaddress="10.81.164.163" used="false" />
     <station name="Maxol Ballincollig 81016 IRMAX296" ipaddress="10.81.164.195" used="false" />
@@ -105,13 +105,13 @@
     <station name="Maxol Cavan Cullies S/Stn 81108 IRMAX477" ipaddress="10.81.172.163" used="false" />
     <station name="Maxol Dunmore Road 81106 IR132613" ipaddress="10.81.172.3" used="false" />
     <station name="Maxol Blackpool Cork 81079 MAX288" ipaddress="10.81.173.131" used="false" />
-    <station name="10.81.174.131" ipaddress="10.81.174.131" used="false" />
+    <station name="Maxol Eglinton 81020 IR134969" ipaddress="10.81.174.131" used="false" />
     <station name="Maxol Castletroy 82904 IR500-10" ipaddress="10.81.174.163" used="false" />
     <station name="Maxol Artane 81110 IRMAX031" ipaddress="10.81.174.195" used="false" />
     <station name="Maxol Boherbue 81112 IRPRIV11" ipaddress="10.81.175.131" used="false" />
     <station name="Maxol Mulhuddart 81113 IR50720" ipaddress="10.81.175.163" used="false" />
     <station name="Maxol Donabate 81114 IRPRIV16" ipaddress="10.81.175.195" used="false" />
-    <station name="10.81.176.131" ipaddress="10.81.176.131" used="false" />
+    <station name="Maxol Tannaghmore 81021 IRPRIV277" ipaddress="10.81.176.131" used="false" />
     <station name="O'Mahonys Spa Glen IR137325 81120" ipaddress="10.81.176.163" used="false" />
     <station name="Maxol Greenhills Road  81117 IRTZ9846" ipaddress="10.81.176.35" used="false" />
     <station name="Maxol Mace N7 81118 IRTZ9827" ipaddress="10.81.176.67" used="false" />
@@ -625,7 +625,7 @@
     <station name="Maxol Leixlip Ardiffs MAX016 81071" ipaddress="10.81.171.163" used="false" />
     <station name="Maxol Lisnaskea uk-81085 MAX421" ipaddress="10.81.171.131" used="false" />
     <station name="Maxol Longmile 81116 IRTZ9825" ipaddress="10.81.176.3" used="false" />
-    <station name="Loughall IRPRIV934 UK-81083" ipaddress="10.81.170.131" used="false" />
+    <station name="Maxol Loughall IRPRIV934 UK-81083" ipaddress="10.81.170.131" used="false" />
     <station name="Maxol Lucan MAX279 81069" ipaddress="10.81.168.99" used="false" />
     <station name="Maxol Mahon TX79 81105" ipaddress="10.81.171.227" used="false" />
     <station name="Maxol Mallusk uk-81080 IRMAXNI" ipaddress="10.81.160.131" used="false" />
@@ -810,7 +810,7 @@
     <station name="Top Kanes Clonard IR135220 A1029" ipaddress="10.81.154.35" used="false" />
     <station name="Top Kelly 61015" ipaddress="10.87.230.67" used="false" />
     <station name="Top Kilbride IRPRIV146 61107" ipaddress="10.82.214.35" used="false" />
-    <station name="Kilbrogan Top Bandon 61047 IRTED-51" ipaddress="10.87.238.67" used="false" />
+    <station name="Top Kilbrogan Bandon 61047 IRTED-51" ipaddress="10.87.238.67" used="false" />
     <station name="Top Lakeland IRTED-55 61026" ipaddress="10.82.213.35" used="false" />
     <station name="Top Mary Curtain 61070 IRTED-17" ipaddress="10.82.213.163" used="false" />
     <station name="Top Mayfield IR54570 61050" ipaddress="10.82.214.163" used="false" />
@@ -852,7 +852,7 @@
     <station name="Great Gas Daly's IRMAX050 L1116" ipaddress="10.87.229.99" used="false" />
     <station name="Esso Skibbereen 11007 ESS313" ipaddress="10.85.222.131" used="false" />
     <station name="Maxol Drumlusk 81090 MAX275" ipaddress="10.81.169.99" used="false" />
-    <station name="10.79.160.227" ipaddress="10.79.160.227" used="false" />
+    <station name="Supervalu Moira L0004 IRPRIV570" ipaddress="10.79.160.227" used="false" />
     <station name="Naas Oil Prosperous L1149 IRMAX375" ipaddress="10.87.234.227" used="false" />
     <station name="Shell Monasterevan Finlays 20824" ipaddress="10.87.239.67" used="false" />
     <station name="Solo Fuels Coagh L0048 R138093" ipaddress="10.79.169.227" used="false" />
@@ -906,7 +906,7 @@
     <station name="Smart Pump Longford L1165 IR136531" ipaddress="10.87.237.195" used="false" />
     <station name="Top Bandon 61047 TED-51" ipaddress="10.87.238.67" used="false" />
     <station name="10.76.230.35" ipaddress="10.76.230.35" used="false" />
-    <station name="10.87.224.163" ipaddress="10.87.224.163" used="false" />
+    <station name="McKennas S/Stn Muff L8062 IRPRIV163" ipaddress="10.87.224.163" used="false" />
     <station name="Ultima Carnew IR133554 L1195" ipaddress="10.67.35.35" used="false" />
     <station name="JH McLoughlin L1173 IRPRIV541" ipaddress="10.87.238.35" used="false" />
     <station name="10.24.50.67" ipaddress="10.24.50.67" used="false" />
@@ -928,11 +928,11 @@
     <station name="Maxol Tymon North 81063" ipaddress="10.81.170.3" used="false" />
     <station name="10.24.13.3" ipaddress="10.24.13.3" used="false" />
     <station name="10.24.78.3" ipaddress="10.24.78.3" used="false" />
-    <station name="10.79.166.131" ipaddress="10.79.166.131" used="false" />
+    <station name="Toomebridge L8049" ipaddress="10.79.166.131" used="false" />
     <station name="Nicholl Oil GO S/Stn Killea L1174 IRPRIV961" ipaddress="10.87.238.163" used="false" />
     <station name="10.24.179.67" ipaddress="10.24.179.67" used="false" />
     <station name="Fresh Food Centre L0049 IR138062" ipaddress="10.79.171.99" used="false" />
-    <station name="10.79.171.99" ipaddress="10.79.171.99" used="false" />
+
     <station name="TOP FEOHANAGH 61060 IR136217" ipaddress="10.87.225.131" used="false" />
     <station name="Top Horans Tralee 61053 IRPRIV909" ipaddress="10.82.214.195" used="false" />
     <station name="10.24.179.131" ipaddress="10.24.179.131" used="false" user="-0000007941" />
